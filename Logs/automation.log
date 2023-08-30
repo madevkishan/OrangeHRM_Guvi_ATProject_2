@@ -2899,3 +2899,105 @@ Forgot Password
 08/29/2023 10:43:45 AM: INFO: Nationalities is displayed
 08/29/2023 10:43:45 AM: INFO: Corporate Branding is displayed
 08/29/2023 10:43:45 AM: INFO: Configuration is displayed
+08/30/2023 03:19:19 PM: INFO: Starting the Test
+08/30/2023 03:19:21 PM: INFO: Username entered
+08/30/2023 03:19:21 PM: INFO: password entered
+08/30/2023 03:19:21 PM: INFO: Login button clicked
+08/30/2023 03:19:27 PM: INFO: ORANGEHRM title is verified in Admin Page
+08/30/2023 03:19:28 PM: INFO: Menus under 'Admin':
+08/30/2023 03:19:28 PM: INFO: User Management is displayed
+08/30/2023 03:19:28 PM: INFO: Job is displayed
+08/30/2023 03:19:28 PM: INFO: Organization is displayed
+08/30/2023 03:19:28 PM: INFO: Qualifications is displayed
+08/30/2023 03:19:28 PM: INFO: Nationalities is displayed
+08/30/2023 03:19:28 PM: INFO: Corporate Branding is displayed
+08/30/2023 03:19:28 PM: INFO: Configuration is displayed
+08/30/2023 03:25:44 PM: INFO: Starting the Test
+08/30/2023 03:25:45 PM: INFO: Username entered
+08/30/2023 03:25:45 PM: INFO: password entered
+08/30/2023 03:25:45 PM: INFO: Login button clicked
+08/30/2023 03:25:49 PM: INFO: Menus present on 'Dashboard Page':
+08/30/2023 03:25:49 PM: INFO: Admin is displayed
+08/30/2023 03:25:49 PM: INFO: PIM is displayed
+08/30/2023 03:25:49 PM: INFO: Leave is displayed
+08/30/2023 03:25:49 PM: INFO: Time is displayed
+08/30/2023 03:25:49 PM: INFO: Recruitment is displayed
+08/30/2023 03:25:49 PM: INFO: My Info is displayed
+08/30/2023 03:25:49 PM: INFO: Performance is displayed
+08/30/2023 03:25:50 PM: INFO: Dashboard is displayed
+08/30/2023 03:25:50 PM: INFO: Directory is displayed
+08/30/2023 03:25:50 PM: INFO: Maintenance is displayed
+08/30/2023 03:25:50 PM: INFO: Claim is displayed
+08/30/2023 03:25:50 PM: INFO: Buzz is displayed
+08/30/2023 03:25:53 PM: INFO: PIM Menu Clicked
+08/30/2023 03:25:58 PM: INFO: Leave Menu Clicked
+08/30/2023 03:26:03 PM: INFO: Time Menu Clicked
+08/30/2023 03:26:08 PM: INFO: Recruitment Menu Clicked
+08/30/2023 03:26:13 PM: INFO: My Info Menu Clicked
+08/30/2023 03:26:18 PM: INFO: Performance Menu Clicked
+08/30/2023 03:26:23 PM: INFO: Leave Menu Clicked
+08/30/2023 03:26:28 PM: INFO: Directory Menu Clicked
+08/30/2023 03:26:33 PM: INFO: Maintenance Menu Clicked
+08/30/2023 03:26:38 PM: INFO: Claim Menu Clicked
+08/30/2023 03:26:43 PM: INFO: Buzz Menu Clicked
+08/30/2023 03:30:00 PM: INFO: Starting the Test
+08/30/2023 03:30:02 PM: INFO: Username entered
+08/30/2023 03:30:02 PM: INFO: password entered
+08/30/2023 03:30:03 PM: INFO: Login button clicked
+08/30/2023 03:30:04 PM: INFO: Login Failed because of Invalid credentials
+08/30/2023 03:30:04 PM: INFO: Clicked on 'Forgot Password' Link
+08/30/2023 03:30:09 PM: INFO: Reset of Password is successfull
+08/30/2023 03:30:18 PM: INFO: Starting the Test
+08/30/2023 03:30:20 PM: INFO: Username entered
+08/30/2023 03:30:20 PM: INFO: password entered
+08/30/2023 03:30:22 PM: INFO: Login button clicked
+08/30/2023 03:30:22 PM: INFO: ************** Login Successfull,Im in Dashboard Page ****************
+08/30/2023 03:30:22 PM: INFO: *** Login Test Passed ***
+08/30/2023 03:30:22 PM: INFO: Test Completed
+08/30/2023 03:30:31 PM: INFO: Starting the Test
+08/30/2023 03:30:32 PM: INFO: Username entered
+08/30/2023 03:30:32 PM: INFO: password entered
+08/30/2023 03:30:33 PM: INFO: Login button clicked
+08/30/2023 03:30:34 PM: INFO: Login Failed because of Invalid credentials
+08/30/2023 03:30:34 PM: INFO: Screenshot captured for failed testcase
+08/30/2023 03:30:43 PM: INFO: Starting the Test
+08/30/2023 03:30:44 PM: INFO: Username entered
+08/30/2023 03:30:44 PM: INFO: password entered
+08/30/2023 03:30:44 PM: INFO: Login button clicked
+08/30/2023 03:30:51 PM: INFO: ORANGEHRM title is verified in Admin Page
+08/30/2023 03:30:51 PM: INFO: Menus under 'Admin':
+08/30/2023 03:30:51 PM: INFO: User Management is displayed
+08/30/2023 03:30:51 PM: INFO: Job is displayed
+08/30/2023 03:30:51 PM: INFO: Organization is displayed
+08/30/2023 03:30:51 PM: INFO: Qualifications is displayed
+08/30/2023 03:30:51 PM: INFO: Nationalities is displayed
+08/30/2023 03:30:51 PM: INFO: Corporate Branding is displayed
+08/30/2023 03:30:51 PM: INFO: Configuration is displayed
+08/30/2023 03:31:00 PM: INFO: Starting the Test
+08/30/2023 03:31:01 PM: INFO: Username entered
+08/30/2023 03:31:02 PM: INFO: password entered
+08/30/2023 03:31:02 PM: INFO: Login button clicked
+08/30/2023 03:31:06 PM: INFO: Menus present on 'Dashboard Page':
+08/30/2023 03:31:06 PM: INFO: Admin is displayed
+08/30/2023 03:31:06 PM: INFO: PIM is displayed
+08/30/2023 03:31:06 PM: INFO: Leave is displayed
+08/30/2023 03:31:06 PM: INFO: Time is displayed
+08/30/2023 03:31:06 PM: INFO: Recruitment is displayed
+08/30/2023 03:31:06 PM: INFO: My Info is displayed
+08/30/2023 03:31:06 PM: INFO: Performance is displayed
+08/30/2023 03:31:07 PM: INFO: Dashboard is displayed
+08/30/2023 03:31:07 PM: INFO: Directory is displayed
+08/30/2023 03:31:07 PM: INFO: Maintenance is displayed
+08/30/2023 03:31:07 PM: INFO: Claim is displayed
+08/30/2023 03:31:07 PM: INFO: Buzz is displayed
+08/30/2023 03:31:10 PM: INFO: PIM Menu Clicked
+08/30/2023 03:31:15 PM: INFO: Leave Menu Clicked
+08/30/2023 03:31:20 PM: INFO: Time Menu Clicked
+08/30/2023 03:31:25 PM: INFO: Recruitment Menu Clicked
+08/30/2023 03:31:30 PM: INFO: My Info Menu Clicked
+08/30/2023 03:31:35 PM: INFO: Performance Menu Clicked
+08/30/2023 03:31:41 PM: INFO: Leave Menu Clicked
+08/30/2023 03:31:45 PM: INFO: Directory Menu Clicked
+08/30/2023 03:31:50 PM: INFO: Maintenance Menu Clicked
+08/30/2023 03:31:55 PM: INFO: Claim Menu Clicked
+08/30/2023 03:32:00 PM: INFO: Buzz Menu Clicked

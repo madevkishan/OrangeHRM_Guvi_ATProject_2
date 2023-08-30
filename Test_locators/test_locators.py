@@ -14,10 +14,12 @@ class Resetpwd_Locators:
     resetmsg_loc_title_xpath = '//h6[@class="oxd-text oxd-text--h6 orangehrm-forgot-password-title"]'
 
 class Dashboardpage_Locators:
-    titleorangehrm_loc_txt_xpath = "//title[text()='OrangeHRM']"
-    dashboard_loc_menus_xpath ="(//*[contains(@class,'oxd-main-menu')])[5]//following::li"
+    # dashboard_loc_menus_xpath ="(//*[contains(@class,'oxd-main-menu')])[5]//following::li"
     # adminmenus_loc_menu_xpath = '(//nav[@role="navigation"])[2]'
-    adminmenus_loc_menu_xpath = "(//*[contains(@role,'navigation')])[2]//following::li"
+    # adminmenus_loc_menu_xpath = "(//*[contains(@role,'navigation')])[2]//following::li"
+    titleorangehrm_loc_txt_xpath = "//title[text()='OrangeHRM']"
+    dashboard_loc_menus_xpath = "//ul[@class='oxd-main-menu']//li"
+    adminmenus_loc_menu_xpath = "//nav[@class ='oxd-topbar-body-nav']//li"
     pim_loc_menu_xpath = '//a[@href="/web/index.php/pim/viewPimModule"]'
     leave_loc_menu_xpath ='//a[@href="/web/index.php/leave/viewLeaveModule"]'
     time_loc_menu_xpath = '//a[@href="/web/index.php/time/viewTimeModule"]'
