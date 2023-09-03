@@ -34,6 +34,52 @@ class Dashboardpage_Locators:
 
 class AdminPage_Locators:
     admin_loc_xpath = '//a[@href="/web/index.php/admin/viewAdminModule"]'
+    # User management menu and submenu locators
+    # user_mgmt_loc_dd_xpath = '//li[@class="--active oxd-topbar-body-nav-tab --parent --visited"]'
+    user_mgmt_loc_dd_xpath = "//span[text()='User Management ']"
+
+    # Job menu and sub-menu locators
+    job_loc_dd_xpath = "//span[text()='Job ']"
+    job_menus_loc_xpath = '//ul[@class="oxd-dropdown-menu"]//li'
+    job_titles_loc_xpath = "//a[text()='Job Titles']"
+    paygrade_loc_xpath = "//a[text()='Pay Grades']"
+    empstatus_loc_xpath = "//a[text()='Employment Status']"
+    job_categories_loc_xpath = "//a[text()='Job Categories']"
+    workshifts_loc_xpath = "//a[text()='Work Shifts']"
+
+    # Organization menu and sub-menu locators
+    organization_loc_xpath = "//span[text()='Organization ']"
+    organization_menus_loc_xpath = '//ul[@class="oxd-dropdown-menu"]//li'
+    generalinfo_loc_xpath = "//a[text()='General Information']"
+    locations_loc_xpath = "//a[text()='Locations']"
+    structure_loc_xpath = "//a[text()='Structure']"
+
+    # Qualification menu and sub-menu locators
+    qualification_loc_xpath = "//span[text()='Qualifications ']"
+    qualification_menus_loc_xpath = '//ul[@class="oxd-dropdown-menu"]//li'
+    skills_loc_xpath = "//a[text()='Skills']"
+    education_loc_xpath = "//a[text()='Education']"
+    licenses_loc_xpath = "//a[text()='Licenses']"
+    languages_loc_xpath = "//a[text()='Languages']"
+    memberships_loc_xpath = "//a[text()='Memberships']"
+
+    nationalities_loc_xpath = "//a[text()='Nationalities']"
+    corporatebranding_loc_xpath = "//a[text()='Corporate Branding']"
+
+    # Configuration menu and sub-menu locators
+    configuration_loc_xpath = "//span[text()='Configuration ']"
+    configuration_menus_loc_xpath = '//ul[@class="oxd-dropdown-menu"]//li'
+    emailconfig_loc_xpath = "//a[text()='Email Configuration']"
+    emailsub_loc_xpath = "//a[text()='Email Subscriptions']"
+    localization_loc_xpath = "//a[text()='Localization']"
+    languagepackages_loc_xpath = "//a[text()='Language Packages']"
+    modules_loc_xpath = "//a[text()='Modules']"
+    socialmedia_loc_xpath = "//a[text()='Social Media Authentication']"
+    register_loc_xpath = "//a[text()='Register OAuth Client']"
+    ldap_loc_xpath = "//a[text()='LDAP Configuration']"
+
+
+    users_loc_dd_xpath = '//a[@role="menuitem"]'
     username_loc_textbox_xpath ='(//input[@class="oxd-input oxd-input--active"])[2]'
     userrole_loc_dropdown_xpath = "(//i[@class='oxd-icon bi-caret-down-fill oxd-select-text--arrow'])[1]"
     employeename_loc_textbox_xpath = '//input[@placeholder="Type for hints..."]'
