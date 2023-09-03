@@ -21,6 +21,8 @@ Test data = It contains the common data which are to be used all over the testca
 
 Test cases = Each testcase contains only the logic.
 
-Though it's not recommended to use implicit wait,I have used it show the input we insert into each field.
+Reports = Tetscases Reports can be found in OrangeHRM_Guvi_ATProject_2/Reports/reports.html
+
+Though it's not recommended to use implicit wait or sleep, I have used it show the navigation of each page
 Please check automation.log also
 
